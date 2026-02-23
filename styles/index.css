@@ -34,7 +34,7 @@ footer {
 .one {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  height: 50vh; 
+  height: 40vh; 
 }
 
 .left-top {
@@ -75,7 +75,7 @@ footer {
 .two {
   grid-template-columns: 2fr 1fr 2fr 1fr;
   grid-template-rows: 1fr;
-  height: 50vh; 
+  height: 40vh; 
 }
 
 .left-bottom {
